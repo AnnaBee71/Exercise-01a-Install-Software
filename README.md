@@ -1,9 +1,9 @@
 Exercise 01a: Install Software
 My name is:
 
-[YOUR NAME]
+[Anna Banks]
 
-My github username is:
+My github username is: AnnaBee71
 
 BL-MSCH-C220
 
